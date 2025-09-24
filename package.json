@@ -1,0 +1,16 @@
+{
+  "name": "internship-task",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vite-plugin-nunjucks": "^1.0.0"
+  }
+}
